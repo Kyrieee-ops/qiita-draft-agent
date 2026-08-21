@@ -1,0 +1,14 @@
+# Python 関連
+__pycache__/
+*.py[cod]
+.venv/
+uv.lock
+pyproject.toml
+
+# 一時メモ・生成結果（Gitで管理しない場合）
+**/notes/
+**/draft.md
+
+# Streamlit 関連
+.streamlit/
+
